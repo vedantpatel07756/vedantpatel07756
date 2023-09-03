@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/@error-by-night" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@error-by-night" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/vedant patel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vedant patel" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vedant-patel-47707b210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vedant patel" height="30" width="40" /></a>
 <a href="https://instagram.com/vedantpatel07756" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vedantpatel07756" height="30" width="40" /></a>
 <a href="https://dribbble.com/vedant07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="vedant07" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/vedantpatel077" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="vedantpatel077" height="30" width="40" /></a>

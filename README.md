@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://codepen.io/@error-by-night" target="blank"><img align="center" src="https://www.svgrepo.com/show/330189/codepen.svg" alt="@error-by-night" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/vedant-patel-47707b210" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/256/61/61109.png" alt="vedant patel" height="30" width="40" /></a>
-<a href="https://instagram.com/vedantpatel07756" target="blank"><img align="center" src=" http://surl.li/ksxnz" alt="vedantpatel07756" height="30" width="40" /></a>
+<a href="https://instagram.com/vedantpatel07756" target="blank"><img align="center" src="https://www.seekpng.com/png/detail/9-94934_instagram-svg.png" alt="vedantpatel07756" height="30" width="40" /></a>
 <a href="https://dribbble.com/vedant07" target="blank"><img align="center" src="http://surl.li/ksxot" alt="vedant07" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/vedantpatel077" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="vedantpatel077" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/vedantpatel07756" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="vedantpatel07756" height="30" width="40" /></a>

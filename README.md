@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **vedantpatel07756@gmail.com**
 
-- 📄 Know about my experiences [https://portfolio-zeta-lyart-14.vercel.app/](Portfolio Website)
+- 📄 Know about my experiences https://portfolio-zeta-lyart-14.vercel.app/
 
 - ⚡ Fun fact **I think I am funny**
 
